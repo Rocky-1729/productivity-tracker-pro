@@ -1,0 +1,6 @@
+{
+  "name": "Productivity Tracker Pro",
+  "description": "Track Tasks • Build Habits • Reach Goals. A modern productivity platform featuring task management, daily habits, streak tracking, analytics dashboards, progress insights, and goal tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
